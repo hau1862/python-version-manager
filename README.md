@@ -12,13 +12,13 @@
 
 # Path Setup
 	List python versions available save in file
-		"C:\Users\Admin\Programs\Python Versions Manager\list-available.xml"
-	Python Versions Manager version save in file
-		"C:\Users\Admin\Programs\Python Versions Manager\version"
+		"C:\Users\Admin\Programs\Python Version Manager\list-available.xml"
+	Python Version Manager version save in file
+		"C:\Users\Admin\Programs\Python Version Manager\version"
 	All python versions save in folder
-		"C:\Users\Admin\Programs\Python Versions Manager\versions\"
+		"C:\Users\Admin\Programs\Python Version Manager\versions\"
 	Current python version save in file
-		"C:\Users\Admin\Programs\Python Versions Manager\current"
+		"C:\Users\Admin\Programs\Python Version Manager\current"
 
 # References
 	pyenv
